@@ -1,0 +1,108 @@
+body{
+    background-color: #585858;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Futura", "Helvetica", "Helvetica Neue", "Arial", "sans serif";
+    color: #BDBDBD;
+}
+#kopfleiste {
+    width: inherit;
+    height: 80px;
+    background-color: #3B0B0B;
+    margin: 0px 0px 15px 0px;
+    padding: 0px 0px 0px 15px;
+    box-shadow: 3px 3px 3px 0px #2E2E2E;
+}
+#menu {
+    width: auto;
+    height: auto;
+    background-color: #1C1C1C;
+    float: left;
+    margin: 0px 15px 0px 0px;
+    padding: 10px;
+    box-shadow: 3px 3px 3px 0px #2E2E2E;
+}
+#inhalt {
+    width: auto;
+    height: auto;
+    background-color: #1C1C1C;
+    overflow: hidden;
+    padding: 20px 15px 45px 45px;
+    box-shadow: 3px 3px 3px 0px #2E2E2E;
+}
+h1 {
+    margin: 0px;
+    padding: 0px;
+    font-size: 36px;
+    line-height: 80px;
+}
+#container {
+    width: inherit;
+    max-width: 960px;
+    margin: 0 auto 0 auto;
+}
+a {
+    color: inherit;
+    font-family: inherit;
+    text-decoration: none;
+}
+#inhalt a {
+    color: inherit;
+    font-family: inherit;
+    text-decoration: underline;
+}
+#menu li {
+    font-size: 20px;
+    margin: 0px 0px 15px 0px;
+    padding: 0px 10px 0px 10px;
+}
+#inhalt h2 {
+    font-size: 24px;
+    line-height: 1.5;
+    text-align: center;
+}
+#inhalt h3 {
+    font-size: 18px;
+    line-height: 1.5;
+}
+#inhalt p {
+    font-size: 15px;
+    line-height: 1.4;
+}
+#menu a:visited {
+    color: inherit;
+    font-family: inherit;
+    text-decoration: none;
+}
+#menu a:hover {
+    background-color: #2E2E2E;
+    color: inherit;
+    font-family: inherit;
+    text-decoration: none;
+}
+#menu a:active {
+    color: inherit;
+    font-family: inherit;
+    text-decoration: none;
+}
+#socialmedia a {
+    color: inherit;
+    font-family: inherit;
+    text-decoration: none;
+}
+#menu ul {
+    list-style-type: none;
+    padding: 0px;
+}
+#menu li.current {
+    color: #6E6E6E;
+}
+td {
+    padding: 15px;
+}
+table {
+    border-collapse: collapse;
+}
+#blogeintrag {
+    margin: 45px 0px 0px 0px;
+}
